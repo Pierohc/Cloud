@@ -116,6 +116,14 @@ Verificamos que el tomcat esté corriendo y vemos que si en el puerto 8080:
 
 Por ultimo debemos habilitar el puerto 8080 de nuestra VM, creamos una regla de firewall y la añadimos luego a la VM.
 
+----------------------------------------------------------------------------------------------------------
+
+# Crear vm para Base de Datos en Google Cloud:
+
+
+
+
+
 
 
 
